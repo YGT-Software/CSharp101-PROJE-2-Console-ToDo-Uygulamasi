@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\bin\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.exe
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\bin\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.deps.json
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\bin\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.runtimeconfig.json
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\bin\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.dll
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\bin\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.pdb
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\obj\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\obj\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\obj\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\obj\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.AssemblyInfo.cs
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\obj\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\obj\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.dll
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\obj\Debug\net7.0\refint\PROJE-2 Console ToDo Uygulaması.dll
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\obj\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.pdb
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\obj\Debug\net7.0\PROJE-2 Console ToDo Uygulaması.genruntimeconfig.cache
+c:\Users\muaze\Desktop\PROJE-2 Console ToDo Uygulaması\obj\Debug\net7.0\ref\PROJE-2 Console ToDo Uygulaması.dll
